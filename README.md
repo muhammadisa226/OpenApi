@@ -4,7 +4,7 @@
 
 [OPENAPI By Programmer Zaman Now](https://youtu.be/b39Xqf5iyjo)
 
-# USAGE
+# Usage
 
 copy field in apidoc.json
 
