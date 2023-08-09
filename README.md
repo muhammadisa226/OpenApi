@@ -10,4 +10,4 @@ copy field in apidoc.json
 
 #
 
-paste in `https://editor.swagger.io/`
+paste in [swaagger editor](https://editor.swagger.io/)
